@@ -1,0 +1,46 @@
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to insert: 50
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to insert: 30
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to insert: 20
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element to insert: 15
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 3
+50 30 20 15
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 2
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 3
+30 15 20
+1. Insert
+2. Delete
+3. Display
+4. Exit
+Enter your choice: 4
